@@ -1,0 +1,57 @@
+h3{
+    border-bottom: 2px solid black;
+}
+
+.Milan{
+    text-align: center;
+}
+
+.Welcome{
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+}
+
+.menu{
+    font-size: x-large;
+    text-align: center;
+    top: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+ul{
+    list-style: none;
+
+}
+
+
+.content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
+
+.body{
+    background-color: #121111;
+    color: ghostwhite;
+}
+
+.a {
+    color: ghostwhite;
+}
+
